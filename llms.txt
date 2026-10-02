@@ -1,0 +1,88 @@
+# Dr Farah Nadeem
+
+> Assistant Professor at the Syed Ahsan Ali and Syed Maratib Ali School of Education, Lahore University of Management Sciences (LUMS), Pakistan. Her research uses machine learning and large-scale education data to study assessment, teacher development and fair access to school.
+
+Disambiguation: this Farah Nadeem is an education and machine learning researcher at LUMS. She is a different person from the Pakistani actress of the same name.
+
+## Key facts
+
+- Current role: Assistant Professor, School of Education, LUMS, Lahore (since 2023)
+- Research areas: AI and data science; education systems and policy; equity and inclusion
+- Education: PhD in Electrical and Computer Engineering, University of Washington (2020), Fulbright Fellow; MS Electrical Engineering, FAST-NUCES (2014); BS Electrical Engineering, NUST (2008)
+- Previous roles: Director, Office of Accessibility and Inclusion, LUMS (2023 to 2025); Education Consultant, World Bank Education Global Practice (2023 to 2025); Education Technology and MIS Expert, UNICEF Pakistan (2021 to 2023); Monitoring and Evaluation Specialist, PMIU, Punjab Education Sector Reforms Programme (2020 to 2021)
+- Website: https://farahn.github.io/
+- ORCID: https://orcid.org/0000-0001-9241-1592
+- Email: farah_nadeem@lums.edu.pk
+
+## Bio
+
+Dr Farah Nadeem is an Assistant Professor at the Syed Ahsan Ali and Syed Maratib Ali School of Education at the Lahore University of Management Sciences (LUMS). Her research brings machine learning and education data to questions of assessment, teaching quality and fair access to school. She leads studies funded by the UK Foreign, Commonwealth and Development Office on the political economy of assessment data, responsible AI in education and the simulation of school enrolment, and is co-principal investigator on a Google Society-Centered AI Research Award. Earlier, she led monitoring and evaluation for Punjab's school education reform programme, where her team ran data collection for 52,000 schools, and she has worked with UNICEF Pakistan and the World Bank's Education Global Practice. From 2023 to 2025 she directed the LUMS Office of Accessibility and Inclusion. She holds a PhD in Electrical and Computer Engineering from the University of Washington, where she was a Fulbright Fellow.
+
+## Research projects
+
+- [The Equity Equation Project](https://farahn.github.io/#equity-equation) (Ongoing; research). Role: Principal investigator; Funding: UK FCDO, through DARE-RC; Partner: CITY@LUMS. Areas: AI and data science, Education systems and policy, Equity and inclusion. This project brings existing data sources together in a GIS framework and uses agent-based simulation to test how policy choices could change school enrolment for different groups of children in Lahore. The aim is to show planners which barriers keep children out of school and which interventions would reach them. Results presented in 2025 point to economic barriers as a major constraint on access.
+- [Responsible AI Integration in Education in Pakistan: A Scoping Study](https://farahn.github.io/#responsible-ai) (Ongoing; research). Role: Principal investigator; Funding: UK FCDO, through DARE-RC; Team: Dr Maryam Mustafa and Annum Sadiq. Areas: AI and data science, Education systems and policy, Equity and inclusion. The study maps current and emerging uses of AI in Pakistani education across Punjab, Sindh and the Islamabad Capital Territory. It benchmarks national policy against international frameworks and gathers evidence from teachers, EdTech firms and civil society on equity, governance and safe implementation. The study held a National Convening on Responsible AI in Education at the Pakistan Institute of Education, Islamabad, in August 2026.
+- [Beyond Western Defaults: A Socio-Technical Infrastructure for Community-Governed AI Alignment in Low-Resource Contexts](https://farahn.github.io/#beyond-western-defaults) (Awarded 2026; research). Role: Co-principal investigator; Principal investigator: Dr Maryam Mustafa; Funding: Google Society-Centered AI Research Award. Areas: AI and data science, Equity and inclusion. Large language models already give health, education and legal guidance in Pakistan, yet the benchmarks that decide whether they work reflect Western linguistic and cultural defaults. This project builds infrastructure through which communities in low-resource settings can govern how AI systems are aligned and evaluated. It is grounded in two deployments: Awaaz-e-Sehat, a voice-enabled maternal health platform, and a speech-first literacy and numeracy app for out-of-school adolescent girls in Punjab and Khyber Pakhtunkhwa.
+- [Political Economy Analysis of Assessment Data Use in Pakistan](https://farahn.github.io/#assessment-data) (Ongoing; research). Role: Principal investigator; Funding: UK FCDO, through DARE-RC. Areas: AI and data science, Education systems and policy. This study examines how political and institutional incentives shape the production, interpretation and use of assessment data across federal, provincial and district levels of Pakistan's education system. It combines predictive modelling with a multi-tier political economy analysis to identify where assessment data informs decisions and where it does not.
+- [Digital Evolution in Teacher Development: Punjab's Continuous Professional Development System](https://farahn.github.io/#teacher-development) (2025 to 2026; research). Role: Researcher, classroom observation strand; Lead researcher: Nighat Lone, DARE-RC; Funding: UK FCDO, through DARE-RC. Areas: AI and data science, Education systems and policy. This mixed-methods study traces how Punjab's digitised professional development system moves information between classrooms, mentors and the provincial secretariat. It combines classroom observation data from 2021 onwards in four districts with fieldwork in 24 schools. Data travels upward quickly, but support and feedback rarely travel back to teachers, and training content often misses the realities of multigrade and multilingual classrooms.
+- [Automated Assessment of Urdu Oral Reading Fluency](https://farahn.github.io/#urdu-reading) (Pilot, 2026; research). Focus: Children aged 7 to 10 reading Urdu; Method: Speech recognition benchmarked against expert scoring. Areas: AI and data science, Education systems and policy. This pilot benchmarks multilingual speech recognition models on recordings of children reading Urdu passages, comparing automated words-correct-per-minute scores with expert human scoring. Errors are analysed by age, gender, school location and passage difficulty. The results will inform a costed plan for an offline, teacher-facing tool for formative reading assessment.
+- [Gender Equity Mapping Survey at LUMS](https://farahn.github.io/#gender-equity) (Institutional review; research). Role: Principal investigator; Funding: LUMS. Areas: Education systems and policy, Equity and inclusion. This university-wide review assesses the state of gender equality in LUMS policies, culture and practice, drawing on primary and secondary research.
+- [Language Use in K-16 STEM Education (Doctoral Research)](https://farahn.github.io/#doctoral-research) (2016 to 2020; research). Institution: University of Washington; Advisor: Professor Mari Ostendorf; Funding: US$500K NSF grant that I helped write. Areas: AI and data science, Education systems and policy, Equity and inclusion. My dissertation developed natural language processing tools to analyse language in K-16 STEM materials and validated them against student performance. It estimated the linguistic complexity of science texts and assessment items, measured the representation and agency of feminine and masculine characters in K-12 texts, and showed that item features such as linguistic complexity have non-linear effects on item difficulty. The work rested on a formal partnership between Electrical and Computer Engineering and the College of Education.
+- [Automated Essay Scoring with Discourse-Aware Models](https://farahn.github.io/#essay-scoring) (2018 to 2019; research). Setting: Research internship, Liulishuo, San Mateo, California. Areas: AI and data science, Education systems and policy. This work built neural essay scoring models for English language learners that account for text coherence, reducing the need for hand-crafted features and human scoring. The goal was writing feedback that resource-constrained classrooms could use at scale.
+- [Office of Accessibility and Inclusion, LUMS](https://farahn.github.io/#accessibility-office) (2023 to 2025; practice). Role: Director. Areas: Education systems and policy, Equity and inclusion. I directed the campus-wide office responsible for academic accommodations, accessibility and inclusion for students, faculty and staff, serving a community of more than 6,000 people. The office developed institutional policy on accessibility and accommodations and supported student resilience through the Be REAL programme.
+- [School Data Systems for Punjab](https://farahn.github.io/#punjab-data) (2020 to 2021; practice). Role: Monitoring and Evaluation Specialist; Organisation: Programme Monitoring and Implementation Unit, Punjab Education Sector Reforms Programme. Areas: AI and data science, Education systems and policy. I led the monitoring and evaluation team that ran end-to-end data collection for 52,000 public schools across Punjab. We introduced unique identifiers for 11 million students so that records could be tracked over time and linked across data systems for planning and research.
+
+## Publications
+
+- [Navigating the Landscape of Multiple Data Sources for Educational Reporting in LMICs: The Case of Pakistan](https://www.eqao.com/iaea-annual-conference/): S. Maheen, I. Muzaffar, and F. Nadeem. 51st Annual Conference of the International Association for Educational Assessment (IAEA), Toronto, 2026.
+- [Digital Evolution in Teacher Development: Analysis of Punjab's Continuous Professional Development (CPD) System](https://darerc.org/research-at-glance/): N. Lone, F. Nadeem, J. Albrent, and N. Tariq. Policy brief, Data and Research in Education Research Consortium (DARE-RC), 2026.
+- [From Data to Decisions: Rethinking Classroom Observation Metrics for Effective Education Reform in Punjab, Pakistan](https://farahn.github.io/#pub-aera-cot): F. Nadeem, J. C. Albrent, M. Fatima, Y. Arif, S. E. Zahra, and A. Mahmood. Annual Meeting of the American Educational Research Association (AERA), 2025.
+- [Breaking Barriers and Biases: Understanding Female Student Experiences in University Extracurricular Activities and Student Leadership Roles](https://farahn.github.io/#pub-aera-gender): A. Rehman, A. Hussain, and F. Nadeem. Annual Meeting of the American Educational Research Association (AERA), 2025.
+- [Annual School Census Report 2020-21](https://www.pesrp.edu.pk/downloads/school_census/2020_21/School_Census_Report_2020_21.pdf): F. Nadeem. School Education Department, Government of the Punjab, April 2021.
+- [Automatic Analysis of Language Use in K-16 STEM Education and Impact on Student Performance](https://digital.lib.washington.edu/researchworks/items/492a6dda-c1fa-4289-9991-b4ee25b8072f): F. Nadeem. PhD dissertation, University of Washington, 2020.
+- [Automated Essay Scoring with Discourse-Aware Neural Models](https://aclanthology.org/W19-4450/): F. Nadeem, H. Nguyen, Y. Liu, and M. Ostendorf. Proceedings of the Fourteenth Workshop on Innovative Use of NLP for Building Educational Applications (BEA), Florence, 2019, pages 484-493.
+- [Estimating Linguistic Complexity for Science Texts](https://aclanthology.org/W18-0505/): F. Nadeem and M. Ostendorf. Proceedings of the Thirteenth Workshop on Innovative Use of NLP for Building Educational Applications (BEA), New Orleans, 2018, pages 45-55.
+- [Language Based Mapping of Science Assessment Items to Skills](https://aclanthology.org/W17-5036/): F. Nadeem and M. Ostendorf. Proceedings of the 12th Workshop on Innovative Use of NLP for Building Educational Applications (BEA), Copenhagen, 2017, pages 319-326.
+- [Investigation and Improvements to the OFDM Wi-Fi Physical Layer Abstraction in ns-3](https://farahn.github.io/#pub-wns3-2016): H. Safavi-Naeini, F. Nadeem, and S. Roy. Proceedings of the Workshop on ns-3 (WNS3), 2016, pages 65-70.
+- [Measurement Based Call Admission Control (CAC) to Improve QoS for IEEE 802.11e WLAN](https://farahn.github.io/#pub-ntms-2014): A. Hussain, N. ul Hassan, and F. Nadeem. 6th International Conference on New Technologies, Mobility and Security (NTMS), 2014.
+- [Saturation Throughput Analysis of IEEE 802.11e EDCA through Analytical Model](https://farahn.github.io/#pub-ijwin-2014): M. F. Usman, A. Hussain, and F. Nadeem. International Journal of Wireless Information Networks, 21(2), pages 101-113, 2014.
+
+## Writing and talks
+
+- 31 Oct 2026, Talk: [Data, AI and Evidence for Better Decision-Making](https://darerc.org/education-summit-2026/). Thematic briefing, DARE-RC International Education Summit 2026, LUMS, Lahore.
+- 29 Sep 2026, Moderator: [AI and Language Learning: Possibilities, Limitations and Risks](https://farahn.github.io/#talk-language-2026). Plenary session, Policy Dialogue on Language, Literacy and Learning, GRADES-STP and TALEEM Programme, Lahore.
+- 30 Mar 2026, Blog: [The Digital Doorway: Bridging the Gap Between Observation and Support](https://darerc.org/the-digital-doorway-bridging-the-gap-between-observation-and-support/). DARE-RC blog, with Areej Mahmood and Nighat Lone.
+- 28 Nov 2025, Talk: [Predictive Modelling of Policy Impact on School Enrolment](https://soe.lums.edu.pk/news/data-inclusion-and-resilience-advancing-equity-pakistans-education-systems-through-evidence). Policy dialogue on data, inclusion and resilience, LUMS School of Education with DARE-RC, Lahore.
+- 24 Sep 2025, Talk: [The Digital Evolution in Teacher Development: Analysis of Punjab's CPD System](https://soe.lums.edu.pk/news/policy-dialogue-school-education-explores-teacher-effectiveness-and-workforce-management). Policy dialogue on teacher effectiveness and workforce management, LUMS School of Education with DARE-RC, Lahore.
+- 19 Feb 2025, Talk: [Using Simulation and Data to Shape Education Policy](https://darerc.org/videos/). DARE-RC Research Symposium, Islamabad.
+- Video, Talk: [Academia, Public and Private Collaboration for Ethical Data Governance](https://darerc.org/videos/). DARE-RC video series.
+- Sep 2021, Podcast: [As a Woman of Color in STEM](https://www.youtube.com/watch?v=NhYpHp4jVrY). Fulbright Women Podcast.
+- Oct 2019, Talk: [Machine Learning Tools for K-12 STEM Assessments](https://farahn.github.io/#talk-fulbright-2019). Annual Fulbright Conference, Arlington, Virginia.
+- Mar 2018, Talk: [Earning the Privilege to Thrive](https://farahn.github.io/#talk-thrive-2018). Western Washington Fulbright Talks, Seattle.
+- Mar 2017, Talk: [Empowerment and Equity: Starting with Perceptions](https://farahn.github.io/#talk-equity-2017). Western Washington Fulbright Talks, Seattle.
+
+## Teaching
+
+- Impact Evaluation Methods for Education (graduate course)
+- Applied Data Analysis (graduate course)
+- Practicum Proseminar (graduate course)
+- Results-Based Management (professional workshop)
+- Monitoring, Evaluation and Learning for Leadership (professional workshop)
+
+## Recognition
+
+- Google Society-Centered AI Research Award, as co-principal investigator (2026)
+- Fulbright Fellowship for doctoral study (2015 to 2020)
+- Husky 100, University of Washington (2019)
+- Homecoming Scholar, University of Washington (2019)
+- Celebrate: UW Women (2019 and 2020)
+- Engineering Fellow, Washington STEM with Washington MESA (2016 to 2017)
+
+## Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=j5Pahl4AAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/farah-nadeem/)
+- [GitHub](https://github.com/Farahn)
+- [LUMS profile](https://lums.edu.pk/lums_employee/9543)
+- [dblp](https://dblp.org/pid/145/3081.html)
+- [ORCID](https://orcid.org/0000-0001-9241-1592)
